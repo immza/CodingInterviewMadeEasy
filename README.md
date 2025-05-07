@@ -1,3 +1,38 @@
+This is a coding based Interview platform designed for ease of interviews for the recruiters. Cenetred on just one platform, the interviewers of the company would be able to login into the system using individual google credentials and schedule meetings accordingly with the applicants. There is a video and audio feature included along with the code board just on the right which is a real time code board that allows the interviewer to review the code live. The questions and the programming languages can be changed as per preference. I have also integrated the screen recording option and along with it the ability to screen record videos and save it for later within. 
+
+This is the Interviewer Viewpoint:
+
+![Alt text](myassets/interviewerhomepage.png)
+
+This is the Candidate ViewPoint:
+
+![Alt text](myassets/candihomepage.png)
+
+This is the view of the Join Meeting Room:
+
+![Alt text](myassets/joinmeeting.png)
+
+This is the view of Video Call Room:
+
+![Alt text](myassets/videopage.png)
+
+This is the view of the Schedule Interview Window:
+
+![Alt text](myassets/scheduleinterview.png)
+
+This is the viewpoint of the the Recordings Page:
+
+![Alt text](myassets/recordings.png)
+
+This is the Dashboard view (gives you the ability to assign interview as pass or fail):
+
+![Alt text](myassets/dashboard.png)
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
